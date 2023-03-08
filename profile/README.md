@@ -44,7 +44,7 @@
 <br />
 
 * [![Linkedin][Linkedin-shield]][Linkedin-url]
-* [![Join US !][Welcom-shield]][Welcom-url]
+* [![Join US!][Welcom-shield]][Welcom-url]
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
