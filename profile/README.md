@@ -38,6 +38,7 @@
 * [![NgRx.io][NgRx.io]][NgRx-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Storybook.js][Storybook.js]][storybook-url]
+* [![TailWindCSS][TailWind-Shield]][TailWind-URL]
 
 
 ## Contact :
@@ -61,3 +62,5 @@
 [screenShoot-webSite]: https://github.com/HappyWool-com/.github/blob/main/profile/images/webSite.png
 [Welcom-Shield]: https://img.shields.io/badge/Join%20US-999?style=for-the-badge
 [Welcom-url]: https://www.welcometothejungle.com/fr/companies/pp-yarns-co/jobs
+[TailWind-Shield]: https://img.shields.io/badge/TailWindCSS-38bcfa?style=for-the-badge&logo=tailwindcss&logoColor=white
+[TailWind-URL]: https://tailwindcss.com/
